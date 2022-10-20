@@ -3,9 +3,9 @@
 ## Table of Content
 
 * [Papers](#papers)
-	* [DDPM](#DDPM)
+	* [DDPM](#ddpm)
+	* [Score](#score)
 * [Datasets](#datasets)
-* [Simulators](#simulators)
 * [MISC](#misc)
 
 
@@ -18,6 +18,14 @@ When sending PRs, please put the new paper at the correct chronological position
 Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
 
-### <a name="DDPM"></a> 
+
+## <a name="papers"></a> Papers
+
+### <a name="ddpm"></a>   DDPM
+
+### <a name="score"></a>  Score
 
 
+## <a name="datasets"></a> Datasets
+
+## <a name="misc"></a> MISC
